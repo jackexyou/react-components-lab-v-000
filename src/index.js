@@ -8,7 +8,7 @@ const BUTCHER_PRODUCTS = [
   'Ribeye'
 ]
 
-    const products = BUTCHER_PRODUCTS.map((p, idx) => (<li key={idx}>{p}</li>))
+const products = BUTCHER_PRODUCTS.map((p, idx) => (<li key={idx}>{p}</li>))
 
 // Define these exported classes
 export class OlderCoaster extends React.Component {
