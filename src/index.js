@@ -23,7 +23,7 @@ export class OlderCoaster extends React.Component {
 }
 
 export class InFrontOfYou extends React.Component {
-  // your code here
+  // your 
 }
 
 export class ButcherShop extends React.Component {
